@@ -1,5 +1,5 @@
 # EduEmo
-Source code for the paper "Elementary Discourse Units with Sparse Attention for Multi-label Emotion"
+Source code for the paper "Elementary Discourse Units with Sparse Attention for Multi-label Emotion Classification"
 ## Requirement
 python 3.7  
 torch 1.9.0  
