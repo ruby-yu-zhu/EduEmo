@@ -16,7 +16,7 @@ Other packages can be installed via:
 
     python scripts/train.py 
 
-#### Evaluation1
+#### Evaluation
 
     python scripts/test.py
 
